@@ -6,7 +6,23 @@ Official Implementation of [DreamPropeller: Supercharge Text-to-3D Generation wi
   <img src="assets/teaser.gif" width="90%" loop=infinite/>
 </p>
 
+<div align="center">
+  <span class="author-block">
+    <a href="https://alexzhou907.github.io/">Linqi Zhou</a><sup>1</sup>,</span>
+  <span class="author-block">
+    <a href="https://cs.stanford.edu/~andyshih/">Andy Shih</a><sup>1</sup>,</span>
+  <span class="author-block">
+    <a href="https://cs.stanford.edu/~chenlin/">Chenlin Meng</a><sup>1,2</sup>,
+  </span>
+  <span class="author-block">
+    <a href="https://cs.stanford.edu/~ermon/">Stefano Ermon</a><sup>1</sup>
+  </span>
+</div>
 
+<div align="center">
+  <span class="author-block"><sup>1</sup>Stanford University,</span>
+  <span class="author-block"><sup>2</sup>Pika Labs</span>
+</div>
 <div align="center">
 <a href="https://arxiv.org/abs/2311.17082">[Paper]</a>
 <a href="https://alexzhou907.github.io/dreampropeller_page/">[Project]</a>
