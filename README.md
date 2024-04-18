@@ -1,4 +1,4 @@
-# DreamPropeller: Supercharge Text-to-3D Generation with Parallel Sampling
+# DreamPropeller: Supercharge Text-to-3D Generation with Parallel Sampling (CVPR 2024 Highlight)
 
 Official Implementation of [DreamPropeller: Supercharge Text-to-3D Generation with Parallel Sampling](https://arxiv.org/abs/2311.17082)
 
